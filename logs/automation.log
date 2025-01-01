@@ -1,0 +1,12 @@
+14:48:37.762 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\master.xml
+
+14:49:35.641 [main] INFO  testCases.TC003_RecruitmentAdd - ***********TC003_RecruitmentAdd********
+14:49:36.770 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Recruitment Icon
+14:49:43.702 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Save Icon
+14:55:50.386 [main] INFO  testCases.TC003_RecruitmentAdd - ***********TC003_RecruitmentAdd********
+14:55:51.593 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Recruitment Icon
+14:55:58.270 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Save Icon
+15:02:08.791 [main] INFO  testCases.TC003_RecruitmentAdd - ***********TC003_RecruitmentAdd********
+15:02:09.998 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Recruitment Icon
+15:02:16.762 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Save Icon

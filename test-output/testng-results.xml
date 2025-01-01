@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-30T11:31:17 IST" name="Failed suite [Suite]" finished-at="2024-12-30T11:31:42 IST" duration-ms="24882">
+  <suite started-at="2025-01-01T14:48:37 IST" name="Suite" finished-at="2025-01-01T14:49:46 IST" duration-ms="69155">
     <groups>
+      <group name="datadriven">
+        <method signature="TC001_LoginTest.verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_LoginTest@3fa2213]" name="verifyLogin" class="testCases.TC001_LoginTest"/>
+      </group> <!-- datadriven -->
       <group name="regression">
-        <method signature="TC003_RecruitmentAdd.verifyRecruitmentAdd()[pri:0, instance:testCases.TC003_RecruitmentAdd@1a7288a3]" name="verifyRecruitmentAdd" class="testCases.TC003_RecruitmentAdd"/>
+        <method signature="TC003_RecruitmentAdd.verifyRecruitmentAdd()[pri:0, instance:testCases.TC003_RecruitmentAdd@2974f221]" name="verifyRecruitmentAdd" class="testCases.TC003_RecruitmentAdd"/>
       </group> <!-- regression -->
       <group name="sanity">
-        <method signature="TC003_RecruitmentAdd.verifyRecruitmentAdd()[pri:0, instance:testCases.TC003_RecruitmentAdd@1a7288a3]" name="verifyRecruitmentAdd" class="testCases.TC003_RecruitmentAdd"/>
+        <method signature="TC003_RecruitmentAdd.verifyRecruitmentAdd()[pri:0, instance:testCases.TC003_RecruitmentAdd@2974f221]" name="verifyRecruitmentAdd" class="testCases.TC003_RecruitmentAdd"/>
       </group> <!-- sanity -->
       <group name="master">
-        <method signature="TC003_RecruitmentAdd.verifyRecruitmentAdd()[pri:0, instance:testCases.TC003_RecruitmentAdd@1a7288a3]" name="verifyRecruitmentAdd" class="testCases.TC003_RecruitmentAdd"/>
+        <method signature="TC001_LoginTest.verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_LoginTest@3fa2213]" name="verifyLogin" class="testCases.TC001_LoginTest"/>
+        <method signature="TC003_RecruitmentAdd.verifyRecruitmentAdd()[pri:0, instance:testCases.TC003_RecruitmentAdd@2974f221]" name="verifyRecruitmentAdd" class="testCases.TC003_RecruitmentAdd"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2024-12-30T11:31:17 IST" name="Test(failed)" finished-at="2024-12-30T11:31:42 IST" duration-ms="24882">
+    <test started-at="2025-01-01T14:48:37 IST" name="Test" finished-at="2025-01-01T14:49:46 IST" duration-ms="69155">
       <class name="testCases.TC003_RecruitmentAdd">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_RecruitmentAdd@1a7288a3]" started-at="2024-12-30T11:31:17 IST" name="setup" finished-at="2024-12-30T11:31:30 IST" duration-ms="13359" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_RecruitmentAdd@2974f221]" started-at="2025-01-01T14:49:10 IST" name="setup" finished-at="2025-01-01T14:49:35 IST" duration-ms="25521" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -32,15 +36,67 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyRecruitmentAdd()[pri:0, instance:testCases.TC003_RecruitmentAdd@1a7288a3]" started-at="2024-12-30T11:31:30 IST" name="verifyRecruitmentAdd" finished-at="2024-12-30T11:31:41 IST" duration-ms="11234" status="PASS">
+        <test-method signature="verifyRecruitmentAdd()[pri:0, instance:testCases.TC003_RecruitmentAdd@2974f221]" started-at="2025-01-01T14:49:35 IST" name="verifyRecruitmentAdd" finished-at="2025-01-01T14:49:46 IST" duration-ms="11067" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyRecruitmentAdd -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_RecruitmentAdd@1a7288a3]" started-at="2024-12-30T11:31:41 IST" name="tearDown" finished-at="2024-12-30T11:31:42 IST" duration-ms="246" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_RecruitmentAdd@2974f221]" started-at="2025-01-01T14:49:46 IST" name="tearDown" finished-at="2025-01-01T14:49:46 IST" duration-ms="236" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC003_RecruitmentAdd -->
-    </test> <!-- Test(failed) -->
-  </suite> <!-- Failed suite [Suite] -->
+      <class name="testCases.TC001_LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC001_LoginTest@3fa2213]" started-at="2025-01-01T14:48:38 IST" name="setup" finished-at="2025-01-01T14:48:45 IST" duration-ms="6722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_LoginTest@3fa2213]" started-at="2025-01-01T14:48:45 IST" name="verifyLogin" data-provider="loginData" finished-at="2025-01-01T14:48:55 IST" duration-ms="9167" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_LoginTest@3fa2213]" started-at="2025-01-01T14:48:55 IST" name="verifyLogin" data-provider="loginData" finished-at="2025-01-01T14:49:09 IST" duration-ms="14695" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_LoginTest@3fa2213]" started-at="2025-01-01T14:49:09 IST" name="tearDown" finished-at="2025-01-01T14:49:10 IST" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
