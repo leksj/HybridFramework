@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-30T11:31:17 IST" name="Failed suite [Suite]" finished-at="2024-12-30T11:31:42 IST" duration-ms="24882">
+    <groups>
+      <group name="regression">
+        <method signature="TC003_RecruitmentAdd.verifyRecruitmentAdd()[pri:0, instance:testCases.TC003_RecruitmentAdd@1a7288a3]" name="verifyRecruitmentAdd" class="testCases.TC003_RecruitmentAdd"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC003_RecruitmentAdd.verifyRecruitmentAdd()[pri:0, instance:testCases.TC003_RecruitmentAdd@1a7288a3]" name="verifyRecruitmentAdd" class="testCases.TC003_RecruitmentAdd"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC003_RecruitmentAdd.verifyRecruitmentAdd()[pri:0, instance:testCases.TC003_RecruitmentAdd@1a7288a3]" name="verifyRecruitmentAdd" class="testCases.TC003_RecruitmentAdd"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-12-30T11:31:17 IST" name="Test(failed)" finished-at="2024-12-30T11:31:42 IST" duration-ms="24882">
+      <class name="testCases.TC003_RecruitmentAdd">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_RecruitmentAdd@1a7288a3]" started-at="2024-12-30T11:31:17 IST" name="setup" finished-at="2024-12-30T11:31:30 IST" duration-ms="13359" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRecruitmentAdd()[pri:0, instance:testCases.TC003_RecruitmentAdd@1a7288a3]" started-at="2024-12-30T11:31:30 IST" name="verifyRecruitmentAdd" finished-at="2024-12-30T11:31:41 IST" duration-ms="11234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRecruitmentAdd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_RecruitmentAdd@1a7288a3]" started-at="2024-12-30T11:31:41 IST" name="tearDown" finished-at="2024-12-30T11:31:42 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC003_RecruitmentAdd -->
+    </test> <!-- Test(failed) -->
+  </suite> <!-- Failed suite [Suite] -->
+</testng-results>

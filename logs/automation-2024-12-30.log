@@ -1,0 +1,82 @@
+16:14:23.750 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\master.xml
+
+16:19:33.548 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\master.xml
+
+16:20:16.948 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\master.xml
+
+16:33:18.466 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\master.xml
+
+16:34:32.309 [main] INFO  testCases.TC003_RecruitmentAdd - ***********TC003_RecruitmentAdd********
+16:35:08.344 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\master.xml
+
+16:36:21.673 [main] INFO  testCases.TC003_RecruitmentAdd - ***********TC003_RecruitmentAdd********
+16:36:22.844 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Recruitment Icon
+16:36:29.890 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Save Icon
+16:37:11.661 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\grouping.xml
+
+16:37:31.468 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\master.xml
+
+16:38:12.518 [main] INFO  testCases.TC003_RecruitmentAdd - ***********TC003_RecruitmentAdd********
+16:38:13.762 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Recruitment Icon
+16:38:20.717 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Save Icon
+16:41:18.814 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\grouping.xml
+
+16:42:00.864 [main] INFO  testCases.TC003_RecruitmentAdd - ***********TC003_RecruitmentAdd********
+16:42:02.151 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Recruitment Icon
+16:42:09.112 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Save Icon
+16:42:51.136 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\grouping.xml
+
+16:43:32.989 [main] INFO  testCases.TC003_RecruitmentAdd - ***********TC003_RecruitmentAdd********
+16:43:34.175 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Recruitment Icon
+16:43:41.033 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Save Icon
+16:44:01.711 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\grouping.xml
+
+16:48:18.614 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\grouping.xml
+
+16:48:37.781 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\grouping.xml
+
+16:48:51.373 [main] INFO  testCases.TC003_RecruitmentAdd - ***********TC003_RecruitmentAdd********
+16:48:52.915 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Recruitment Icon
+16:48:59.892 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Save Icon
+16:49:39.117 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\grouping.xml
+
+16:50:51.619 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\grouping.xml
+
+16:51:23.967 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\grouping.xml
+
+16:58:16.684 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\grouping.xml
+
+16:59:00.713 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\grouping.xml
+
+17:00:28.930 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\grouping.xml
+
+17:00:42.371 [main] INFO  testCases.TC003_RecruitmentAdd - ***********TC003_RecruitmentAdd********
+17:00:43.797 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Recruitment Icon
+17:00:50.764 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Save Icon
+17:01:01.100 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\grouping.xml
+
+17:01:14.553 [main] INFO  testCases.TC003_RecruitmentAdd - ***********TC003_RecruitmentAdd********
+17:01:15.988 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Recruitment Icon
+17:01:23.230 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Save Icon
+11:28:05.620 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\master.xml
+

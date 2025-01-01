@@ -1,0 +1,9 @@
+11:28:51.128 [main] INFO  testCases.TC003_RecruitmentAdd - ***********TC003_RecruitmentAdd********
+11:28:52.689 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Recruitment Icon
+11:28:59.952 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Save Icon
+11:31:17.245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Program Files\Eclipse\eclipse\eclipse-workspace\hybridFramework\test-output\testng-failed.xml
+
+11:31:30.660 [main] INFO  testCases.TC003_RecruitmentAdd - ***********TC003_RecruitmentAdd********
+11:31:31.920 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Recruitment Icon
+11:31:38.881 [main] INFO  testCases.TC003_RecruitmentAdd - clicked on Save Icon
